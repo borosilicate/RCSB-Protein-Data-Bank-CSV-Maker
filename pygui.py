@@ -9,22 +9,40 @@ app.setLabelBg("title", "Green")
 searchTotal="Search Total is "
 thing="0"
 app.addLabel("l1",searchTotal+thing)
-app.setLabelBg("l1", "Green")
 app.addLabelEntry("Search word")
-app.setFont(20)
-#app.addLabelSecretEntry("")
-app.addLabelSpinBox("options", ["", "Orange", "Pear", "kiwi"])
-
+app.setLabelBg("l1", "Green")
+app.addNumericEntry("csvnumb")
+app.setEntryDefault("csvnumb", "Set Number of CSV objects")
+app.setFont(20) #app.addLabelSecretEntry("")
+csvoarray=["download-url"]
+options=["download-url", "view-url","structure-url", "Method-X-ray-Diffraction", "Resolution-1.5A","Residue-Count","Macromocule","Ligands","Search-Match-Score","Citation-title","pdbx-description","struct-title","key-words",""]
+csvitem="CSV-item-"
 def press(button):
     if button == "Exit":
         app.stop()
-    else:
+    elif button == "Set-CSV-#":
+        csvnumb=app.getEntry("csvnumb")
+        one=0
+        while one < csvnumb and one < len(options) :
+            try:
+                app.addLabelOptionBox(csvitem+str(one),options)
+            except:
+                print("Already have a "+csvitem+str(one))
+            one=one+1
+    elif button == "Set-CSV-options":
+        var=True
+        numbe=0
+        while var:
+            try:
+                app.getEntry("csvitem"+str(numbe))
+            
+    elif button == "Search"
         word = app.getEntry("Search word")
-        print("User:", word) #, "Pass:", pwd)
+        print("Search word:"+word) #, "Pass:", pwd)
         strg=numm(word)
         print(str(strg))
-app.addButtons(["Search", "Exit"], press)
-
+app.addButtons(["Search","Set-CSV-#","Set-CSV-options", "Exit"], press)
+app.addLabelOptionBox(csvitem+"0",options)
 def numm(querry):
     html = urllib.request.urlopen("http://www.rcsb.org/pdb/search/navbarsearch.do?f=&q="+querry).read()
     qrid=None
@@ -44,7 +62,7 @@ def numm(querry):
         #<span id="getResultSizeValue">28590</span>
         thing=soup.find_all(id="getResultSizeValue")
         print(str(thing))
-        app.addLabel("l1",searchTotal+thing)
+        app.addLabel("l1",searchTotal+str(thing))
         for tag in soup.find_all(thing):
             print(str(tag))
         print(str(thing)+" YES WORKING!!!")
