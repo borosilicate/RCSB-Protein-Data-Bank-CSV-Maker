@@ -1,0 +1,73 @@
+14:41:15.693083 -0400	sudo	getgrouplist called triggering group enumeration
+com.apple.message.value: 64
+com.apple.message.domain: com.apple.system.libinfo
+com.apple.message.result: noop
+com.apple.message.signature: getgrouplist
+SenderMachUUID: 68F3D49C-E9F5-321E-963D-ECC971F9F3A4
+14:41:17.331147 -0400	WindowServer	com.apple.message.domain: com.apple.graphics.clients
+com.apple.message.__source__: SPI
+com.apple.message.architecture: 64
+com.apple.message.signature2: 0
+com.apple.message.context_type: Metal
+com.apple.message.signature3: Metal
+com.apple.message.intermediate_frameworks: SkyLight,Direct,libdyld.dylib,<Unknown>
+com.apple.message.signature1: com.apple.WindowServer
+com.apple.message.summarize: YES
+SenderMachUUID: 45BCA377-EDE8-3542-B7BC-925729BFA9B3
+14:41:17.335888 -0400	WindowServer	com.apple.message.domain: com.apple.graphics.clients
+com.apple.message.__source__: SPI
+com.apple.message.architecture: 64
+com.apple.message.signature2: 0
+com.apple.message.context_type: Metal
+com.apple.message.signature3: Metal
+com.apple.message.signature1: com.apple.WindowServer
+com.apple.message.intermediate_frameworks: CoreDisplay,SkyLight,Direct,libdyld.dylib,<Unknown>
+com.apple.message.summarize: YES
+SenderMachUUID: 45BCA377-EDE8-3542-B7BC-925729BFA9B3
+14:41:18.390698 -0400	ReportCrash	com.apple.message.domain: com.apple.crashreporter.writereport.crash
+com.apple.message.signature: WindowServer
+com.apple.message.signature2: UNBUNDLED ||| 600.00 (340.54)
+com.apple.message.signature3: UNKNOWN
+com.apple.message.result: NO
+com.apple.message.summarize: YES
+SenderMachUUID: 235D1132-04A1-31E2-98BB-E70F134324FC
+14:41:19.129139 -0400	activateSettings	com.apple.message.domain: com.apple.security.requireAdminPasswordForPrefs
+com.apple.message.requireadminpasswordforprefs: Password required
+SenderMachUUID: 7AE13980-1B16-329C-8537-86F0BFEC5FBC
+14:41:19.132369 -0400	activateSettings	com.apple.message.domain: com.apple.trackpad2.preferences
+com.apple.message.__source__: SPI
+com.apple.message.actuate_detents: yes
+com.apple.message.force_click_pressure: Medium
+com.apple.message.lookup: 3f_click
+com.apple.message.silent_click: no
+com.apple.message.quick_action_menu: off
+com.apple.message.secondary_click: 2f_click
+com.apple.message.tap_to_click: no
+com.apple.message.three_finger_drag: no
+SenderMachUUID: 7AE13980-1B16-329C-8537-86F0BFEC5FBC
+14:41:30.002524 -0400	ManagedClient	com.apple.message.domain: com.apple.managedclient.loginlocaluser
+com.apple.message.__source__: SPI
+com.apple.message.mcxsettings_count: 0
+com.apple.message.is_admin_user: 1
+com.apple.message.num_groups: 0
+SenderMachUUID: 79FC6E34-354F-3594-8C2C-FEDC44C19317
+14:41:30.393004 -0400	loginwindow	getgrouplist called triggering group enumeration
+com.apple.message.value: 256
+com.apple.message.domain: com.apple.system.libinfo
+com.apple.message.result: noop
+com.apple.message.signature: getgrouplist
+SenderMachUUID: 9F0A34B3-4C8C-3DE8-BB82-56DC5656A6B3
+14:41:30.440622 -0400	loginwindow	com.apple.message.domain: com.apple.login.keybagunlockresult.login
+com.apple.message.__source__: SPI
+com.apple.message.signature: YES
+com.apple.message.summarize: YES
+SenderMachUUID: 9F0A34B3-4C8C-3DE8-BB82-56DC5656A6B3
+
+
+
+
+
+
+
+
+
