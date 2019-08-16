@@ -1,0 +1,708 @@
+(base) Michaels-MacBook-Air-3:~ michaelhearn$ python -v pygui.py >> python.log
+import _frozen_importlib # frozen
+import _imp # builtin
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+# installing zipimport hook
+import 'zipimport' # <class '_frozen_importlib.BuiltinImporter'>
+# installed zipimport hook
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'posix' # <class '_frozen_importlib.BuiltinImporter'>
+import _thread # previously loaded ('_thread')
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import _weakref # previously loaded ('_weakref')
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+# /Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/encodings/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/codecs.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/codecs.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/codecs.cpython-37.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <_frozen_importlib_external.SourceFileLoader object at 0x10330a1d0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/aliases.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/encodings/aliases.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/aliases.cpython-37.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x103318cf8>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x103304c18>
+# /Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/utf_8.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/encodings/utf_8.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/utf_8.cpython-37.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x10332aa20>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+# /Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/latin_1.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/encodings/latin_1.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/latin_1.cpython-37.pyc'
+import 'encodings.latin_1' # <_frozen_importlib_external.SourceFileLoader object at 0x10332e4a8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/io.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/io.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/io.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/abc.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/abc.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/abc.cpython-37.pyc'
+import '_abc' # <class '_frozen_importlib.BuiltinImporter'>
+import 'abc' # <_frozen_importlib_external.SourceFileLoader object at 0x10332ea58>
+import 'io' # <_frozen_importlib_external.SourceFileLoader object at 0x10332e6a0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_bootlocale.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/_bootlocale.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_bootlocale.cpython-37.pyc'
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+import '_bootlocale' # <_frozen_importlib_external.SourceFileLoader object at 0x1033340b8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/site.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/site.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/os.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/os.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/os.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/stat.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/stat.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/stat.cpython-37.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourceFileLoader object at 0x10338ca20>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/posixpath.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/posixpath.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/posixpath.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/genericpath.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/genericpath.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/genericpath.cpython-37.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourceFileLoader object at 0x103396518>
+import 'posixpath' # <_frozen_importlib_external.SourceFileLoader object at 0x103390198>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_collections_abc.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/_collections_abc.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_collections_abc.cpython-37.pyc'
+import '_collections_abc' # <_frozen_importlib_external.SourceFileLoader object at 0x103396b38>
+import 'os' # <_frozen_importlib_external.SourceFileLoader object at 0x103381710>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_sitebuiltins.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/_sitebuiltins.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_sitebuiltins.cpython-37.pyc'
+import '_sitebuiltins' # <_frozen_importlib_external.SourceFileLoader object at 0x103381ac8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/types.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/types.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/types.cpython-37.pyc'
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x1033b2e48>
+# /Users/michaelhearn/anaconda3/lib/python3.7/importlib/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/importlib/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/importlib/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/warnings.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/warnings.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/warnings.cpython-37.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x1033dbc18>
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x1033db278>
+# /Users/michaelhearn/anaconda3/lib/python3.7/importlib/__pycache__/util.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/importlib/util.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/importlib/__pycache__/util.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/importlib/__pycache__/abc.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/importlib/abc.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/importlib/__pycache__/abc.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/importlib/__pycache__/machinery.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/importlib/machinery.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/importlib/__pycache__/machinery.cpython-37.pyc'
+import 'importlib.machinery' # <_frozen_importlib_external.SourceFileLoader object at 0x1033e3860>
+import 'importlib.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x1033dafd0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/contextlib.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/contextlib.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/contextlib.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/collections/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/collections/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/collections/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/operator.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/operator.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/operator.cpython-37.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x10343cf60>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/keyword.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/keyword.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/keyword.cpython-37.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x103450160>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/heapq.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/heapq.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/heapq.cpython-37.pyc'
+# extension module '_heapq' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_heapq.cpython-37m-darwin.so'
+# extension module '_heapq' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_heapq.cpython-37m-darwin.so'
+import '_heapq' # <_frozen_importlib_external.ExtensionFileLoader object at 0x10344d080>
+import 'heapq' # <_frozen_importlib_external.SourceFileLoader object at 0x103450ac8>
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/reprlib.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/reprlib.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/reprlib.cpython-37.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x10344d160>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x1033ff160>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/functools.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/functools.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/functools.cpython-37.pyc'
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x1033ff550>
+import 'contextlib' # <_frozen_importlib_external.SourceFileLoader object at 0x1033e36d8>
+import 'importlib.util' # <_frozen_importlib_external.SourceFileLoader object at 0x1033da390>
+# possible namespace for /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/mpl_toolkits
+# destroy sphinxcontrib
+# destroy sphinxcontrib
+# destroy sphinxcontrib
+# destroy sphinxcontrib
+# destroy sphinxcontrib
+# destroy sphinxcontrib
+import 'site' # <_frozen_importlib_external.SourceFileLoader object at 0x1033393c8>
+Python 3.7.3 (default, Mar 27 2019, 16:54:48) 
+[Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/__pycache__/appjar.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/appjar.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/__pycache__/appjar.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/__future__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/__future__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/__future__.cpython-37.pyc'
+import '__future__' # <_frozen_importlib_external.SourceFileLoader object at 0x103697940>
+# /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/enum.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/enum.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/enum.cpython-37.pyc'
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x1036f3cf8>
+# extension module '_tkinter' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_tkinter.cpython-37m-darwin.so'
+# extension module '_tkinter' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_tkinter.cpython-37m-darwin.so'
+import '_tkinter' # <_frozen_importlib_external.ExtensionFileLoader object at 0x103704dd8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/constants.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/constants.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/constants.cpython-37.pyc'
+import 'tkinter.constants' # <_frozen_importlib_external.SourceFileLoader object at 0x103712208>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/re.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/re.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/re.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/sre_compile.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/sre_compile.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/sre_compile.cpython-37.pyc'
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/sre_parse.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/sre_parse.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/sre_parse.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/sre_constants.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/sre_constants.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/sre_constants.cpython-37.pyc'
+import 'sre_constants' # <_frozen_importlib_external.SourceFileLoader object at 0x103aa0860>
+import 'sre_parse' # <_frozen_importlib_external.SourceFileLoader object at 0x103a93f60>
+import 'sre_compile' # <_frozen_importlib_external.SourceFileLoader object at 0x1037169b0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/copyreg.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/copyreg.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/copyreg.cpython-37.pyc'
+import 'copyreg' # <_frozen_importlib_external.SourceFileLoader object at 0x103aaab38>
+import 're' # <_frozen_importlib_external.SourceFileLoader object at 0x103712b70>
+import 'tkinter' # <_frozen_importlib_external.SourceFileLoader object at 0x103697eb8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/messagebox.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/messagebox.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/messagebox.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/commondialog.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/commondialog.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/commondialog.cpython-37.pyc'
+import 'tkinter.commondialog' # <_frozen_importlib_external.SourceFileLoader object at 0x103ac5080>
+import 'tkinter.messagebox' # <_frozen_importlib_external.SourceFileLoader object at 0x1036f3128>
+# /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/simpledialog.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/simpledialog.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/simpledialog.cpython-37.pyc'
+import 'tkinter.simpledialog' # <_frozen_importlib_external.SourceFileLoader object at 0x103ac9d68>
+# /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/colorchooser.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/colorchooser.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/colorchooser.cpython-37.pyc'
+import 'tkinter.colorchooser' # <_frozen_importlib_external.SourceFileLoader object at 0x103ac5c88>
+# /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/filedialog.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/filedialog.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/filedialog.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/dialog.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/dialog.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/dialog.cpython-37.pyc'
+import 'tkinter.dialog' # <_frozen_importlib_external.SourceFileLoader object at 0x103ae1ef0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/fnmatch.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/fnmatch.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/fnmatch.cpython-37.pyc'
+import 'fnmatch' # <_frozen_importlib_external.SourceFileLoader object at 0x103ae70f0>
+import 'tkinter.filedialog' # <_frozen_importlib_external.SourceFileLoader object at 0x103ac5cf8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/scrolledtext.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/scrolledtext.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/scrolledtext.cpython-37.pyc'
+import 'tkinter.scrolledtext' # <_frozen_importlib_external.SourceFileLoader object at 0x103ae7588>
+# /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/font.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tkinter/font.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/tkinter/__pycache__/font.cpython-37.pyc'
+import 'tkinter.font' # <_frozen_importlib_external.SourceFileLoader object at 0x103ae77f0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/inspect.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/inspect.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/inspect.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/dis.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/dis.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/dis.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/opcode.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/opcode.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/opcode.cpython-37.pyc'
+# extension module '_opcode' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_opcode.cpython-37m-darwin.so'
+# extension module '_opcode' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_opcode.cpython-37m-darwin.so'
+import '_opcode' # <_frozen_importlib_external.ExtensionFileLoader object at 0x103b17eb8>
+import 'opcode' # <_frozen_importlib_external.SourceFileLoader object at 0x103b17780>
+import 'dis' # <_frozen_importlib_external.SourceFileLoader object at 0x103b106d8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/collections/__pycache__/abc.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/collections/abc.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/collections/__pycache__/abc.cpython-37.pyc'
+import 'collections.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x103b25ef0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/linecache.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/linecache.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/linecache.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/tokenize.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tokenize.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/tokenize.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/token.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/token.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/token.cpython-37.pyc'
+import 'token' # <_frozen_importlib_external.SourceFileLoader object at 0x103b35390>
+import 'tokenize' # <_frozen_importlib_external.SourceFileLoader object at 0x103b25c50>
+import 'linecache' # <_frozen_importlib_external.SourceFileLoader object at 0x103b25f28>
+import 'inspect' # <_frozen_importlib_external.SourceFileLoader object at 0x103ae7dd8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/locale.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/locale.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/locale.cpython-37.pyc'
+import 'locale' # <_frozen_importlib_external.SourceFileLoader object at 0x103b07978>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/imghdr.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/imghdr.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/imghdr.cpython-37.pyc'
+import 'imghdr' # <_frozen_importlib_external.SourceFileLoader object at 0x103b5ba58>
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/calendar.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/calendar.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/calendar.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/datetime.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/datetime.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/datetime.cpython-37.pyc'
+# extension module 'math' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/math.cpython-37m-darwin.so'
+# extension module 'math' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/math.cpython-37m-darwin.so'
+import 'math' # <_frozen_importlib_external.ExtensionFileLoader object at 0x103ba7ef0>
+# extension module '_datetime' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_datetime.cpython-37m-darwin.so'
+# extension module '_datetime' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_datetime.cpython-37m-darwin.so'
+import '_datetime' # <_frozen_importlib_external.ExtensionFileLoader object at 0x103bb1f28>
+import 'datetime' # <_frozen_importlib_external.SourceFileLoader object at 0x103b8b630>
+import 'calendar' # <_frozen_importlib_external.SourceFileLoader object at 0x103b74e10>
+# /Users/michaelhearn/anaconda3/lib/python3.7/logging/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/logging/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/logging/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/traceback.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/traceback.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/traceback.cpython-37.pyc'
+import 'traceback' # <_frozen_importlib_external.SourceFileLoader object at 0x103ba7550>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/weakref.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/weakref.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/weakref.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_weakrefset.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/_weakrefset.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_weakrefset.cpython-37.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x103bbe2b0>
+import 'weakref' # <_frozen_importlib_external.SourceFileLoader object at 0x103b8fb00>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/string.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/string.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/string.cpython-37.pyc'
+import '_string' # <class '_frozen_importlib.BuiltinImporter'>
+import 'string' # <_frozen_importlib_external.SourceFileLoader object at 0x103bd4358>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/threading.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/threading.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/threading.cpython-37.pyc'
+import 'threading' # <_frozen_importlib_external.SourceFileLoader object at 0x103bd4b00>
+import 'atexit' # <class '_frozen_importlib.BuiltinImporter'>
+import 'logging' # <_frozen_importlib_external.SourceFileLoader object at 0x103b8b780>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/argparse.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/argparse.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/argparse.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/gettext.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/gettext.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/gettext.cpython-37.pyc'
+import 'gettext' # <_frozen_importlib_external.SourceFileLoader object at 0x10445fb00>
+import 'argparse' # <_frozen_importlib_external.SourceFileLoader object at 0x10442eb70>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/platform.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/platform.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/platform.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/subprocess.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/subprocess.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/subprocess.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/signal.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/signal.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/signal.cpython-37.pyc'
+import 'signal' # <_frozen_importlib_external.SourceFileLoader object at 0x1044953c8>
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+# extension module '_posixsubprocess' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_posixsubprocess.cpython-37m-darwin.so'
+# extension module '_posixsubprocess' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_posixsubprocess.cpython-37m-darwin.so'
+import '_posixsubprocess' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1044a1860>
+# extension module 'select' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/select.cpython-37m-darwin.so'
+# extension module 'select' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/select.cpython-37m-darwin.so'
+import 'select' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1044a18d0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/selectors.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/selectors.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/selectors.cpython-37.pyc'
+import 'selectors' # <_frozen_importlib_external.SourceFileLoader object at 0x1044a1c18>
+import 'subprocess' # <_frozen_importlib_external.SourceFileLoader object at 0x104483978>
+import 'platform' # <_frozen_importlib_external.SourceFileLoader object at 0x10444ba90>
+import 'appJar.appjar' # <_frozen_importlib_external.SourceFileLoader object at 0x10348d9e8>
+import 'appJar' # <_frozen_importlib_external.SourceFileLoader object at 0x10348d780>
+# /Users/michaelhearn/anaconda3/lib/python3.7/urllib/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/urllib/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/urllib/__pycache__/__init__.cpython-37.pyc'
+import 'urllib' # <_frozen_importlib_external.SourceFileLoader object at 0x10348db70>
+# /Users/michaelhearn/anaconda3/lib/python3.7/urllib/__pycache__/request.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/urllib/request.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/urllib/__pycache__/request.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/base64.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/base64.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/base64.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/struct.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/struct.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/struct.cpython-37.pyc'
+# extension module '_struct' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_struct.cpython-37m-darwin.so'
+# extension module '_struct' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_struct.cpython-37m-darwin.so'
+import '_struct' # <_frozen_importlib_external.ExtensionFileLoader object at 0x10451ab70>
+import 'struct' # <_frozen_importlib_external.SourceFileLoader object at 0x10451a940>
+# extension module 'binascii' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/binascii.cpython-37m-darwin.so'
+# extension module 'binascii' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/binascii.cpython-37m-darwin.so'
+import 'binascii' # <_frozen_importlib_external.ExtensionFileLoader object at 0x10451acc0>
+import 'base64' # <_frozen_importlib_external.SourceFileLoader object at 0x104511a20>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/bisect.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/bisect.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/bisect.cpython-37.pyc'
+# extension module '_bisect' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_bisect.cpython-37m-darwin.so'
+# extension module '_bisect' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_bisect.cpython-37m-darwin.so'
+import '_bisect' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1035e2160>
+import 'bisect' # <_frozen_importlib_external.SourceFileLoader object at 0x10451aa58>
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/__init__.cpython-37.pyc'
+import 'email' # <_frozen_importlib_external.SourceFileLoader object at 0x10451a8d0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/hashlib.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/hashlib.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/hashlib.cpython-37.pyc'
+# extension module '_hashlib' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_hashlib.cpython-37m-darwin.so'
+# extension module '_hashlib' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_hashlib.cpython-37m-darwin.so'
+import '_hashlib' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1035e2ac8>
+# extension module '_blake2' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_blake2.cpython-37m-darwin.so'
+# extension module '_blake2' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_blake2.cpython-37m-darwin.so'
+import '_blake2' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1035e2f60>
+# extension module '_sha3' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_sha3.cpython-37m-darwin.so'
+# extension module '_sha3' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_sha3.cpython-37m-darwin.so'
+import '_sha3' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1035eb0b8>
+import 'hashlib' # <_frozen_importlib_external.SourceFileLoader object at 0x1035e20f0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/http/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/http/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/http/__pycache__/__init__.cpython-37.pyc'
+import 'http' # <_frozen_importlib_external.SourceFileLoader object at 0x1035e2630>
+# /Users/michaelhearn/anaconda3/lib/python3.7/http/__pycache__/client.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/http/client.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/http/__pycache__/client.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/parser.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/parser.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/parser.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/feedparser.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/feedparser.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/feedparser.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/errors.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/errors.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/errors.cpython-37.pyc'
+import 'email.errors' # <_frozen_importlib_external.SourceFileLoader object at 0x10360b320>
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/_policybase.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/_policybase.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/_policybase.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/header.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/header.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/header.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/quoprimime.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/quoprimime.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/quoprimime.cpython-37.pyc'
+import 'email.quoprimime' # <_frozen_importlib_external.SourceFileLoader object at 0x1036207b8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/base64mime.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/base64mime.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/base64mime.cpython-37.pyc'
+import 'email.base64mime' # <_frozen_importlib_external.SourceFileLoader object at 0x104872898>
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/charset.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/charset.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/charset.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/encoders.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/encoders.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/encoders.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/quopri.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/quopri.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/quopri.cpython-37.pyc'
+import 'quopri' # <_frozen_importlib_external.SourceFileLoader object at 0x104873ac8>
+import 'email.encoders' # <_frozen_importlib_external.SourceFileLoader object at 0x1048736d8>
+import 'email.charset' # <_frozen_importlib_external.SourceFileLoader object at 0x104872b00>
+import 'email.header' # <_frozen_importlib_external.SourceFileLoader object at 0x1036186a0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/utils.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/utils.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/utils.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/random.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/random.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/random.cpython-37.pyc'
+# extension module '_random' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_random.cpython-37m-darwin.so'
+# extension module '_random' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_random.cpython-37m-darwin.so'
+import '_random' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104891320>
+import 'random' # <_frozen_importlib_external.SourceFileLoader object at 0x104886be0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/socket.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/socket.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/socket.cpython-37.pyc'
+# extension module '_socket' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_socket.cpython-37m-darwin.so'
+# extension module '_socket' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_socket.cpython-37m-darwin.so'
+import '_socket' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104899b38>
+import 'socket' # <_frozen_importlib_external.SourceFileLoader object at 0x104891438>
+# /Users/michaelhearn/anaconda3/lib/python3.7/urllib/__pycache__/parse.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/urllib/parse.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/urllib/__pycache__/parse.cpython-37.pyc'
+import 'urllib.parse' # <_frozen_importlib_external.SourceFileLoader object at 0x104891588>
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/_parseaddr.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/_parseaddr.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/_parseaddr.cpython-37.pyc'
+import 'email._parseaddr' # <_frozen_importlib_external.SourceFileLoader object at 0x1048d4358>
+import 'email.utils' # <_frozen_importlib_external.SourceFileLoader object at 0x104872a58>
+import 'email._policybase' # <_frozen_importlib_external.SourceFileLoader object at 0x10360b390>
+import 'email.feedparser' # <_frozen_importlib_external.SourceFileLoader object at 0x1036054e0>
+import 'email.parser' # <_frozen_importlib_external.SourceFileLoader object at 0x1035fbe10>
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/message.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/message.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/message.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/uu.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/uu.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/uu.cpython-37.pyc'
+import 'uu' # <_frozen_importlib_external.SourceFileLoader object at 0x1048f4630>
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/_encoded_words.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/_encoded_words.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/_encoded_words.cpython-37.pyc'
+import 'email._encoded_words' # <_frozen_importlib_external.SourceFileLoader object at 0x1048f4860>
+# /Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/iterators.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/email/iterators.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/email/__pycache__/iterators.cpython-37.pyc'
+import 'email.iterators' # <_frozen_importlib_external.SourceFileLoader object at 0x1048f4e48>
+import 'email.message' # <_frozen_importlib_external.SourceFileLoader object at 0x103605470>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/ssl.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/ssl.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/ssl.cpython-37.pyc'
+# extension module '_ssl' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_ssl.cpython-37m-darwin.so'
+# extension module '_ssl' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_ssl.cpython-37m-darwin.so'
+import '_ssl' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104917518>
+import 'ssl' # <_frozen_importlib_external.SourceFileLoader object at 0x1048fd128>
+import 'http.client' # <_frozen_importlib_external.SourceFileLoader object at 0x1035eb320>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/tempfile.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/tempfile.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/tempfile.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/shutil.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/shutil.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/shutil.cpython-37.pyc'
+# extension module 'zlib' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/zlib.cpython-37m-darwin.so'
+# extension module 'zlib' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/zlib.cpython-37m-darwin.so'
+import 'zlib' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1049f7828>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/bz2.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/bz2.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/bz2.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_compression.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/_compression.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_compression.cpython-37.pyc'
+import '_compression' # <_frozen_importlib_external.SourceFileLoader object at 0x1049fe4e0>
+# extension module '_bz2' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_bz2.cpython-37m-darwin.so'
+# extension module '_bz2' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_bz2.cpython-37m-darwin.so'
+import '_bz2' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1049feba8>
+import 'bz2' # <_frozen_importlib_external.SourceFileLoader object at 0x1049f7be0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/lzma.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/lzma.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/lzma.cpython-37.pyc'
+# extension module '_lzma' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_lzma.cpython-37m-darwin.so'
+# extension module '_lzma' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_lzma.cpython-37m-darwin.so'
+import '_lzma' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104a0b668>
+import 'lzma' # <_frozen_importlib_external.SourceFileLoader object at 0x1049fec50>
+import 'pwd' # <class '_frozen_importlib.BuiltinImporter'>
+# extension module 'grp' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/grp.cpython-37m-darwin.so'
+# extension module 'grp' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/grp.cpython-37m-darwin.so'
+import 'grp' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104a0b898>
+import 'shutil' # <_frozen_importlib_external.SourceFileLoader object at 0x104946e48>
+import 'tempfile' # <_frozen_importlib_external.SourceFileLoader object at 0x1035fb9b0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/urllib/__pycache__/error.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/urllib/error.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/urllib/__pycache__/error.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/urllib/__pycache__/response.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/urllib/response.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/urllib/__pycache__/response.cpython-37.pyc'
+import 'urllib.response' # <_frozen_importlib_external.SourceFileLoader object at 0x104a1c080>
+import 'urllib.error' # <_frozen_importlib_external.SourceFileLoader object at 0x104946f28>
+# extension module '_scproxy' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_scproxy.cpython-37m-darwin.so'
+# extension module '_scproxy' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_scproxy.cpython-37m-darwin.so'
+import '_scproxy' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104a1ce10>
+import 'urllib.request' # <_frozen_importlib_external.SourceFileLoader object at 0x103661198>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/__pycache__/element.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/element.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/__pycache__/element.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/__meta__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__meta__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/__meta__.cpython-37.pyc'
+import 'soupsieve.__meta__' # <_frozen_importlib_external.SourceFileLoader object at 0x104aa5208>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/css_parser.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/css_parser.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/css_parser.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/util.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/util.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/util.cpython-37.pyc'
+import 'soupsieve.util' # <_frozen_importlib_external.SourceFileLoader object at 0x104abb3c8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/css_match.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/css_match.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/css_match.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/css_types.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/css_types.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/soupsieve/__pycache__/css_types.cpython-37.pyc'
+import 'soupsieve.css_types' # <_frozen_importlib_external.SourceFileLoader object at 0x104ad0a20>
+# extension module 'unicodedata' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/unicodedata.cpython-37m-darwin.so'
+# extension module 'unicodedata' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/unicodedata.cpython-37m-darwin.so'
+import 'unicodedata' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104ae41d0>
+import 'soupsieve.css_match' # <_frozen_importlib_external.SourceFileLoader object at 0x104abbb70>
+import 'soupsieve.css_parser' # <_frozen_importlib_external.SourceFileLoader object at 0x104aa5cc0>
+import 'soupsieve' # <_frozen_importlib_external.SourceFileLoader object at 0x104a9fb70>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/__pycache__/dammit.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/dammit.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/__pycache__/dammit.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/html/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/html/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/html/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/html/__pycache__/entities.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/html/entities.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/html/__pycache__/entities.cpython-37.pyc'
+import 'html.entities' # <_frozen_importlib_external.SourceFileLoader object at 0x104c26240>
+import 'html' # <_frozen_importlib_external.SourceFileLoader object at 0x104c20dd8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/compat.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/compat.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/compat.cpython-37.pyc'
+import 'chardet.compat' # <_frozen_importlib_external.SourceFileLoader object at 0x104c75908>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/universaldetector.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/universaldetector.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/universaldetector.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/charsetgroupprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/charsetgroupprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/charsetgroupprober.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/enums.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/enums.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/enums.cpython-37.pyc'
+import 'chardet.enums' # <_frozen_importlib_external.SourceFileLoader object at 0x104c7f358>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/charsetprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/charsetprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/charsetprober.cpython-37.pyc'
+import 'chardet.charsetprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104c7f780>
+import 'chardet.charsetgroupprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104c75e10>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/escprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/escprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/escprober.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/codingstatemachine.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/codingstatemachine.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/codingstatemachine.cpython-37.pyc'
+import 'chardet.codingstatemachine' # <_frozen_importlib_external.SourceFileLoader object at 0x104c83128>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/escsm.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/escsm.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/escsm.cpython-37.pyc'
+import 'chardet.escsm' # <_frozen_importlib_external.SourceFileLoader object at 0x104c83518>
+import 'chardet.escprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104c7fac8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/latin1prober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/latin1prober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/latin1prober.cpython-37.pyc'
+import 'chardet.latin1prober' # <_frozen_importlib_external.SourceFileLoader object at 0x104c835f8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/mbcsgroupprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/mbcsgroupprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/mbcsgroupprober.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/utf8prober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/utf8prober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/utf8prober.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/mbcssm.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/mbcssm.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/mbcssm.cpython-37.pyc'
+import 'chardet.mbcssm' # <_frozen_importlib_external.SourceFileLoader object at 0x104c8a400>
+import 'chardet.utf8prober' # <_frozen_importlib_external.SourceFileLoader object at 0x104c83eb8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/sjisprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/sjisprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/sjisprober.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/mbcharsetprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/mbcharsetprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/mbcharsetprober.cpython-37.pyc'
+import 'chardet.mbcharsetprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104c8aa90>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/chardistribution.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/chardistribution.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/chardistribution.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/euctwfreq.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/euctwfreq.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/euctwfreq.cpython-37.pyc'
+import 'chardet.euctwfreq' # <_frozen_importlib_external.SourceFileLoader object at 0x104c94908>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/euckrfreq.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/euckrfreq.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/euckrfreq.cpython-37.pyc'
+import 'chardet.euckrfreq' # <_frozen_importlib_external.SourceFileLoader object at 0x104c949e8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/gb2312freq.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/gb2312freq.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/gb2312freq.cpython-37.pyc'
+import 'chardet.gb2312freq' # <_frozen_importlib_external.SourceFileLoader object at 0x104c94a90>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/big5freq.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/big5freq.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/big5freq.cpython-37.pyc'
+import 'chardet.big5freq' # <_frozen_importlib_external.SourceFileLoader object at 0x104c94b38>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/jisfreq.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/jisfreq.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/jisfreq.cpython-37.pyc'
+import 'chardet.jisfreq' # <_frozen_importlib_external.SourceFileLoader object at 0x104c94c18>
+import 'chardet.chardistribution' # <_frozen_importlib_external.SourceFileLoader object at 0x104c8af28>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/jpcntx.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/jpcntx.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/jpcntx.cpython-37.pyc'
+import 'chardet.jpcntx' # <_frozen_importlib_external.SourceFileLoader object at 0x104c94da0>
+import 'chardet.sjisprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104c8a630>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/eucjpprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/eucjpprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/eucjpprober.cpython-37.pyc'
+import 'chardet.eucjpprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104c94f28>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/gb2312prober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/gb2312prober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/gb2312prober.cpython-37.pyc'
+import 'chardet.gb2312prober' # <_frozen_importlib_external.SourceFileLoader object at 0x104cd5400>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/euckrprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/euckrprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/euckrprober.cpython-37.pyc'
+import 'chardet.euckrprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104cd55f8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/cp949prober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/cp949prober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/cp949prober.cpython-37.pyc'
+import 'chardet.cp949prober' # <_frozen_importlib_external.SourceFileLoader object at 0x104cd5860>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/big5prober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/big5prober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/big5prober.cpython-37.pyc'
+import 'chardet.big5prober' # <_frozen_importlib_external.SourceFileLoader object at 0x104cd5a90>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/euctwprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/euctwprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/euctwprober.cpython-37.pyc'
+import 'chardet.euctwprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104cd5cc0>
+import 'chardet.mbcsgroupprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104c83a58>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/sbcsgroupprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/sbcsgroupprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/sbcsgroupprober.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/sbcharsetprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/sbcharsetprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/sbcharsetprober.cpython-37.pyc'
+import 'chardet.sbcharsetprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104d51048>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langcyrillicmodel.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/langcyrillicmodel.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langcyrillicmodel.cpython-37.pyc'
+import 'chardet.langcyrillicmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x104d51278>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langgreekmodel.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/langgreekmodel.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langgreekmodel.cpython-37.pyc'
+import 'chardet.langgreekmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x104d51400>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langbulgarianmodel.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/langbulgarianmodel.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langbulgarianmodel.cpython-37.pyc'
+import 'chardet.langbulgarianmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x104d514e0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langthaimodel.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/langthaimodel.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langthaimodel.cpython-37.pyc'
+import 'chardet.langthaimodel' # <_frozen_importlib_external.SourceFileLoader object at 0x104d51588>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langhebrewmodel.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/langhebrewmodel.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langhebrewmodel.cpython-37.pyc'
+import 'chardet.langhebrewmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x104d516a0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/hebrewprober.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/hebrewprober.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/hebrewprober.cpython-37.pyc'
+import 'chardet.hebrewprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104d51780>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langturkishmodel.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/langturkishmodel.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/langturkishmodel.cpython-37.pyc'
+import 'chardet.langturkishmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x104d51ba8>
+import 'chardet.sbcsgroupprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104c83da0>
+import 'chardet.universaldetector' # <_frozen_importlib_external.SourceFileLoader object at 0x104c75978>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/version.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/version.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/chardet/__pycache__/version.cpython-37.pyc'
+import 'chardet.version' # <_frozen_importlib_external.SourceFileLoader object at 0x104c75be0>
+import 'chardet' # <_frozen_importlib_external.SourceFileLoader object at 0x104c260b8>
+import 'bs4.dammit' # <_frozen_importlib_external.SourceFileLoader object at 0x104ab01d0>
+import 'bs4.element' # <_frozen_importlib_external.SourceFileLoader object at 0x104a8abe0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/__pycache__/_htmlparser.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/_htmlparser.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/__pycache__/_htmlparser.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/html/__pycache__/parser.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/html/parser.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/html/__pycache__/parser.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_markupbase.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/_markupbase.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/_markupbase.cpython-37.pyc'
+import '_markupbase' # <_frozen_importlib_external.SourceFileLoader object at 0x104dce438>
+import 'html.parser' # <_frozen_importlib_external.SourceFileLoader object at 0x104d6a6d8>
+import 'bs4.builder._htmlparser' # <_frozen_importlib_external.SourceFileLoader object at 0x104d51f98>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/__pycache__/_html5lib.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/_html5lib.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/__pycache__/_html5lib.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/html5parser.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/html5parser.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/html5parser.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/__pycache__/six.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/six.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/__pycache__/six.cpython-37.pyc'
+import 'six' # <_frozen_importlib_external.SourceFileLoader object at 0x104e19128>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/_inputstream.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_inputstream.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/_inputstream.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/webencodings/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/webencodings/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/webencodings/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/webencodings/__pycache__/labels.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/webencodings/labels.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/webencodings/__pycache__/labels.cpython-37.pyc'
+import 'webencodings.labels' # <_frozen_importlib_external.SourceFileLoader object at 0x104e436d8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/utf_16_le.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/encodings/utf_16_le.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/utf_16_le.cpython-37.pyc'
+import 'encodings.utf_16_le' # <_frozen_importlib_external.SourceFileLoader object at 0x104e43c50>
+# /Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/utf_16_be.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/encodings/utf_16_be.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/encodings/__pycache__/utf_16_be.cpython-37.pyc'
+import 'encodings.utf_16_be' # <_frozen_importlib_external.SourceFileLoader object at 0x104e43eb8>
+import 'webencodings' # <_frozen_importlib_external.SourceFileLoader object at 0x104e2fe48>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/constants.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/constants.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/constants.cpython-37.pyc'
+import 'html5lib.constants' # <_frozen_importlib_external.SourceFileLoader object at 0x104e43cc0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/_utils.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_utils.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/_utils.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/xml/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/xml/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/xml/__pycache__/__init__.cpython-37.pyc'
+import 'xml' # <_frozen_importlib_external.SourceFileLoader object at 0x104e9e668>
+# /Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/__pycache__/__init__.cpython-37.pyc'
+import 'xml.etree' # <_frozen_importlib_external.SourceFileLoader object at 0x104e9e940>
+# /Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/__pycache__/cElementTree.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/cElementTree.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/__pycache__/cElementTree.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/__pycache__/ElementTree.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/ElementTree.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/__pycache__/ElementTree.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/__pycache__/ElementPath.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/ElementPath.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/xml/etree/__pycache__/ElementPath.cpython-37.pyc'
+import 'xml.etree.ElementPath' # <_frozen_importlib_external.SourceFileLoader object at 0x104eb7898>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/copy.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/copy.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/copy.cpython-37.pyc'
+import 'copy' # <_frozen_importlib_external.SourceFileLoader object at 0x104ebe978>
+# extension module 'pyexpat' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/pyexpat.cpython-37m-darwin.so'
+# extension module 'pyexpat' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/pyexpat.cpython-37m-darwin.so'
+import 'pyexpat' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104ebeda0>
+# extension module '_elementtree' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_elementtree.cpython-37m-darwin.so'
+# extension module '_elementtree' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/lib-dynload/_elementtree.cpython-37m-darwin.so'
+import '_elementtree' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104ebe6d8>
+import 'xml.etree.ElementTree' # <_frozen_importlib_external.SourceFileLoader object at 0x104e9ea58>
+import 'xml.etree.cElementTree' # <_frozen_importlib_external.SourceFileLoader object at 0x104e9e748>
+import 'html5lib._utils' # <_frozen_importlib_external.SourceFileLoader object at 0x104e9e048>
+import 'html5lib._inputstream' # <_frozen_importlib_external.SourceFileLoader object at 0x104e19a90>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/_tokenizer.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_tokenizer.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/_tokenizer.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/__pycache__/py.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/py.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/__pycache__/py.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/__pycache__/_base.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/_base.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/__pycache__/_base.cpython-37.pyc'
+import 'html5lib._trie._base' # <_frozen_importlib_external.SourceFileLoader object at 0x104eebb38>
+import 'html5lib._trie.py' # <_frozen_importlib_external.SourceFileLoader object at 0x104eeb748>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/__pycache__/datrie.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/datrie.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/_trie/__pycache__/datrie.cpython-37.pyc'
+# destroy html5lib._trie.datrie
+import 'html5lib._trie' # <_frozen_importlib_external.SourceFileLoader object at 0x104eeb4e0>
+import 'html5lib._tokenizer' # <_frozen_importlib_external.SourceFileLoader object at 0x104e19c88>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/treebuilders/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/treebuilders/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/treebuilders/__pycache__/__init__.cpython-37.pyc'
+import 'html5lib.treebuilders' # <_frozen_importlib_external.SourceFileLoader object at 0x104eb7358>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/treebuilders/__pycache__/base.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/treebuilders/base.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/treebuilders/__pycache__/base.cpython-37.pyc'
+import 'html5lib.treebuilders.base' # <_frozen_importlib_external.SourceFileLoader object at 0x104eb7198>
+import 'html5lib.html5parser' # <_frozen_importlib_external.SourceFileLoader object at 0x104dd9be0>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/treewalkers/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/treewalkers/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/treewalkers/__pycache__/__init__.cpython-37.pyc'
+import 'html5lib.treewalkers' # <_frozen_importlib_external.SourceFileLoader object at 0x104e19080>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/serializer.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/serializer.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/html5lib/__pycache__/serializer.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__pycache__/__init__.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__pycache__/xmlreader.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/xmlreader.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__pycache__/xmlreader.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__pycache__/handler.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/handler.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__pycache__/handler.cpython-37.pyc'
+import 'xml.sax.handler' # <_frozen_importlib_external.SourceFileLoader object at 0x104f1b710>
+# /Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__pycache__/_exceptions.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/_exceptions.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__pycache__/_exceptions.cpython-37.pyc'
+import 'xml.sax._exceptions' # <_frozen_importlib_external.SourceFileLoader object at 0x104f1ba90>
+import 'xml.sax.xmlreader' # <_frozen_importlib_external.SourceFileLoader object at 0x104f01b38>
+import 'xml.sax' # <_frozen_importlib_external.SourceFileLoader object at 0x104f01748>
+# /Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__pycache__/saxutils.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/saxutils.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/xml/sax/__pycache__/saxutils.cpython-37.pyc'
+import 'xml.sax.saxutils' # <_frozen_importlib_external.SourceFileLoader object at 0x104f016a0>
+import 'html5lib.serializer' # <_frozen_importlib_external.SourceFileLoader object at 0x104eeb4a8>
+import 'html5lib' # <_frozen_importlib_external.SourceFileLoader object at 0x104dd97f0>
+import 'bs4.builder._html5lib' # <_frozen_importlib_external.SourceFileLoader object at 0x104d6a3c8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/__pycache__/_lxml.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/_lxml.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/bs4/builder/__pycache__/_lxml.cpython-37.pyc'
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/lxml/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/lxml/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/lxml/__pycache__/__init__.cpython-37.pyc'
+import 'lxml' # <_frozen_importlib_external.SourceFileLoader object at 0x104f6ff28>
+# extension module 'lxml.etree' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/lxml/etree.cpython-37m-darwin.so'
+# extension module 'lxml._elementpath' loaded from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/lxml/_elementpath.cpython-37m-darwin.so'
+# extension module 'lxml._elementpath' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/lxml/_elementpath.cpython-37m-darwin.so'
+import 'lxml._elementpath' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1054b7358>
+# /Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/gzip.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/gzip.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/__pycache__/gzip.cpython-37.pyc'
+import 'gzip' # <_frozen_importlib_external.SourceFileLoader object at 0x1054c3630>
+# extension module 'lxml.etree' executed from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/lxml/etree.cpython-37m-darwin.so'
+import 'lxml.etree' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104fa62e8>
+import 'bs4.builder._lxml' # <_frozen_importlib_external.SourceFileLoader object at 0x104dd9748>
+import 'bs4.builder' # <_frozen_importlib_external.SourceFileLoader object at 0x104a2ba58>
+import 'bs4' # <_frozen_importlib_external.SourceFileLoader object at 0x1044fb7b8>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/lib/__pycache__/__init__.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/lib/__init__.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/lib/__pycache__/__init__.cpython-37.pyc'
+import 'appJar.lib' # <_frozen_importlib_external.SourceFileLoader object at 0x108907f60>
+# /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/lib/__pycache__/tooltip.cpython-37.pyc matches /Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/lib/tooltip.py
+# code object from '/Users/michaelhearn/anaconda3/lib/python3.7/site-packages/appJar/lib/__pycache__/tooltip.cpython-37.pyc'
+import 'appJar.lib.tooltip' # <_frozen_importlib_external.SourceFileLoader object at 0x108907fd0>
