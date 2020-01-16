@@ -3,6 +3,8 @@ import urllib.request, urllib.parse, urllib.error
 import subprocess
 from bs4 import BeautifulSoup
 import re
+import csv
+
 app=gui()
 app.addLabel("title","RCSB-Protein-Data-Bank-CSV-Maker")
 app.setLabelBg("title", "Green")
@@ -38,9 +40,9 @@ def press(button):
         numbe=0
         while var:
             try:
-                csvoarray[numbe]=app.getEntry("csvitem"+str(numbe))
+                csvtoarray[numbe]=app.getEntry("csvitem"+str(numbe))
             except:
-                print("All items added up to ")
+                print("Write Files All items added up to "+str(numbe))
             numbe=numbe+1
         
     elif button == "Search":
@@ -75,13 +77,14 @@ def numm(querry,write=False):
         print("in not none qrid==",qrid)
         #http://www.rcsb.org/pdb/results/results.do?tabtoshow=Current&qrid=4BEA411F
         html2 = urllib.request.urlopen("http://www.rcsb.org/pdb/results/results.do?tabtoshow=Current&qrid="+qrid).read()
-        soup = BeautifulSoup(html2, 'lxml')
+        soup2 = BeautifulSoup(html2, 'lxml')
         #<span id="getResultSizeValue">28590</span>
-        thing=soup.find_all(id="getResultSizeValue")
+        count=soup.find_all('a',class_='Current')
+        count=str(count).split()[4] 
         print("soup.find_all(resultsize id)",str(thing))
-        app.setLabel("l1",searchTotal+str(thing))
-        #for tag in soup.find_all(thing):
-            #print(str(tag))
+        app.setLabel("l1",searchTotal+str(count))
+        for tag in soup.find_all(thing):
+            print(str(tag))
         print(str(thing)+" YES WORKING!!!")
     else:
         print("ERROR No qrid= value found ERROR")
@@ -89,8 +92,4 @@ def numm(querry,write=False):
     #return_code= subprocess.call([front, shell=True])
     #app.addLabelEntry("Found",str(thing))
     return thing
-
-
-
-
 app.go()
